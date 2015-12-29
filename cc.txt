@@ -1,2 +1,8 @@
 w1234214
+<<<<<<< HEAD
 master add one line
+=======
+dev add one line
+dev add two line
+dev add three line
+>>>>>>> dev
